@@ -1,0 +1,120 @@
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    width: 90px;
+    cursor:pointer;
+    padding-left: 40px;
+}
+
+header button {
+    margin-right: 40px;
+    padding: 10px;
+    background-color: #FFDE54;
+    border: solid 1.5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+nav a {
+    color:black;
+    text-decoration: none;
+    margin-right: 40px;
+    
+}
+
+#tagline {
+    font-size: 50px;
+    padding-top:130px;
+    
+}
+
+#mini-tagline {
+    font-size: 20px;
+}
+
+.hero {
+    margin: 50px;
+    
+}
+
+.hero-img {
+    padding-left: 50px;
+}
+
+.hero-btn{
+    padding: 15px;
+    background-color: #FFDE54;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.bar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #FFDE54;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+ .bar img {
+    width: 80px;
+ }
+
+ .bar p {
+    font-size: 18px;
+ }
+
+ .section {
+    display: inline-flex;
+    
+ }
+ .why-choose-us{
+    margin-top: 30px;
+    padding: 60px;
+    padding-left: 70px;
+    display: flex;
+    
+ }
+
+ .why-choose-us h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    
+ }
+
+ .why-choose-us img {
+    margin-top: 30px;
+    border-radius: 20px;
+    
+    
+ }
+ 
+ .why-choose-us div1 {
+    padding-left: 130px;
+ }
+
+ .why-choose-us li {
+    font-size: 20px; 
+    text-align: justify;
+    font-weight: 300;
+
+ }
+
+ .small-img img{
+    width: 250px;
+    margin: 10px;
+ }
+
+ 
